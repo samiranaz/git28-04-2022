@@ -14,4 +14,8 @@ public abstract  class Company  {
 	
 	abstract void companyNo(); 
 
+
+public void CompanyId1() {
+	System.out.println("Id1 = 1234");
+}
 }
