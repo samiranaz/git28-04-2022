@@ -11,10 +11,13 @@ public abstract  class Company  {
 		
 		System.out.println("Id : 3456");
 	}
-	
+	 	
 	abstract void companyNo(); 
 
 
+public void companyNo1() {
+	System.out.println("Company Name");
+}
 public void CompanyId1() {
 	System.out.println("Id1 = 1234");
 }
